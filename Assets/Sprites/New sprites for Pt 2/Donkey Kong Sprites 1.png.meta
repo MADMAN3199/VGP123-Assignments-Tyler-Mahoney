@@ -1,0 +1,3876 @@
+fileFormatVersion: 2
+guid: 4a26dbd409febef4495c7ebdd436825b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8520492095197145118
+    second: MarioIdle
+  - first:
+      213: 7009153503156688833
+    second: MarioRun1
+  - first:
+      213: 6264282326373933769
+    second: MarioRun2
+  - first:
+      213: 192733220756861542
+    second: MarioLadder
+  - first:
+      213: 6408770347517923929
+    second: Donkey Kong Sprites 1_4
+  - first:
+      213: -8947388996341047543
+    second: Donkey Kong Sprites 1_5
+  - first:
+      213: -4626054302153344456
+    second: Donkey Kong Sprites 1_6
+  - first:
+      213: -5946937014972134302
+    second: Donkey Kong Sprites 1_7
+  - first:
+      213: -3035415101740609459
+    second: Donkey Kong Sprites 1_8
+  - first:
+      213: 2862933698339791245
+    second: MarioJump
+  - first:
+      213: 4115229755816222179
+    second: Donkey Kong Sprites 1_10
+  - first:
+      213: -382662199116351573
+    second: Donkey Kong Sprites 1_11
+  - first:
+      213: -249394047543536837
+    second: MarioRunExtra
+  - first:
+      213: 2194729230832476298
+    second: MarioRunExtra2
+  - first:
+      213: -5404626089736398437
+    second: Donkey Kong Sprites 1_14
+  - first:
+      213: -3903514557508488145
+    second: MarioDeath1
+  - first:
+      213: -2308204187772529977
+    second: Donkey Kong Sprites 1_16
+  - first:
+      213: -7156620835206832351
+    second: Donkey Kong Sprites 1_17
+  - first:
+      213: -8899441186863554838
+    second: MarioHammerIdle1
+  - first:
+      213: -3809369514439454056
+    second: MarioHammerIdle2
+  - first:
+      213: 5047663766425109920
+    second: MarioHammerRun1
+  - first:
+      213: 7132918039502122609
+    second: MarioHammerRun2
+  - first:
+      213: 6293485128019040162
+    second: Donkey Kong Sprites 1_22
+  - first:
+      213: -4324589133432351846
+    second: Donkey Kong Sprites 1_23
+  - first:
+      213: -9221121332564080838
+    second: Donkey Kong Sprites 1_24
+  - first:
+      213: 1832973179092875070
+    second: Donkey Kong Sprites 1_25
+  - first:
+      213: -1387919899318808229
+    second: Donkey Kong Sprites 1_26
+  - first:
+      213: -4450865253139623586
+    second: Donkey Kong Sprites 1_27
+  - first:
+      213: -4177431193149370995
+    second: Donkey Kong Sprites 1_28
+  - first:
+      213: -2252644714617267795
+    second: Donkey Kong Sprites 1_29
+  - first:
+      213: -4901221192999473808
+    second: Donkey Kong Sprites 1_30
+  - first:
+      213: 6620184773323273730
+    second: DKGrab
+  - first:
+      213: 5775603517112187304
+    second: DKIdle
+  - first:
+      213: 1560136540389831608
+    second: DKDrop
+  - first:
+      213: 7408885375309207145
+    second: Donkey Kong Sprites 1_34
+  - first:
+      213: -7637517062179364105
+    second: Donkey Kong Sprites 1_35
+  - first:
+      213: 2505257648204542341
+    second: Donkey Kong Sprites 1_36
+  - first:
+      213: 4355014597182151297
+    second: Donkey Kong Sprites 1_37
+  - first:
+      213: -6824835257803007262
+    second: Donkey Kong Sprites 1_38
+  - first:
+      213: 4424917950848028642
+    second: Donkey Kong Sprites 1_39
+  - first:
+      213: -7744201692238354088
+    second: DKHold
+  - first:
+      213: 8802278854156089385
+    second: Donkey Kong Sprites 1_41
+  - first:
+      213: -6284310730193208530
+    second: Donkey Kong Sprites 1_42
+  - first:
+      213: -1849003476154251050
+    second: Donkey Kong Sprites 1_43
+  - first:
+      213: 4695085667669713871
+    second: White0
+  - first:
+      213: -3158932599013656268
+    second: White1
+  - first:
+      213: -299735598336706012
+    second: White2
+  - first:
+      213: -6731020357339501042
+    second: White3
+  - first:
+      213: 7442418338916763741
+    second: White4
+  - first:
+      213: 5459510915519500151
+    second: White5
+  - first:
+      213: -1980755082353651800
+    second: White6
+  - first:
+      213: 8538664529565120101
+    second: White7
+  - first:
+      213: -2554367649941331167
+    second: White8
+  - first:
+      213: -9087882742650823660
+    second: White9
+  - first:
+      213: 1226987699208626029
+    second: Donkey Kong Sprites 1_54
+  - first:
+      213: 1757401697564097903
+    second: Donkey Kong Sprites 1_55
+  - first:
+      213: 3255218214292119577
+    second: NewPaulineAnims
+  - first:
+      213: 862839300818512330
+    second: Donkey Kong Sprites 1_57
+  - first:
+      213: 7109212333726094537
+    second: Donkey Kong Sprites 1_58
+  - first:
+      213: 2598685833411716291
+    second: Donkey Kong Sprites 1_59
+  - first:
+      213: 7691844365372199785
+    second: Donkey Kong Sprites 1_60
+  - first:
+      213: 5124032875185903757
+    second: Donkey Kong Sprites 1_61
+  - first:
+      213: -6618236086991978780
+    second: Donkey Kong Sprites 1_62
+  - first:
+      213: 6080645301528162983
+    second: Donkey Kong Sprites 1_63
+  - first:
+      213: -5510429966797780119
+    second: Donkey Kong Sprites 1_64
+  - first:
+      213: 5453647695596045234
+    second: Donkey Kong Sprites 1_65
+  - first:
+      213: 3784191390862212949
+    second: Donkey Kong Sprites 1_66
+  - first:
+      213: 3887905544260724538
+    second: Donkey Kong Sprites 1_67
+  - first:
+      213: -4858281304372915568
+    second: Collectible3
+  - first:
+      213: -5003598738059457183
+    second: Donkey Kong Sprites 1_69
+  - first:
+      213: 7736890782889854580
+    second: Donkey Kong Sprites 1_70
+  - first:
+      213: -5287204950582647612
+    second: Donkey Kong Sprites 1_71
+  - first:
+      213: -3392057816972288121
+    second: Donkey Kong Sprites 1_72
+  - first:
+      213: 3704287489270542911
+    second: Donkey Kong Sprites 1_73
+  - first:
+      213: -6193495041976951843
+    second: Donkey Kong Sprites 1_74
+  - first:
+      213: -1879655648175261014
+    second: Donkey Kong Sprites 1_75
+  - first:
+      213: 7587537255602351930
+    second: Donkey Kong Sprites 1_76
+  - first:
+      213: 8508554250960668228
+    second: Donkey Kong Sprites 1_77
+  - first:
+      213: -5075364452667915188
+    second: Donkey Kong Sprites 1_78
+  - first:
+      213: 8015142921578856701
+    second: Donkey Kong Sprites 1_79
+  - first:
+      213: 7204658728306927114
+    second: Donkey Kong Sprites 1_80
+  - first:
+      213: -2334525527748647673
+    second: Donkey Kong Sprites 1_81
+  - first:
+      213: -2555576187380694232
+    second: Donkey Kong Sprites 1_82
+  - first:
+      213: 490035084684523137
+    second: MarioLives
+  - first:
+      213: 6758013338735476410
+    second: Cyan0
+  - first:
+      213: 1488199392981970008
+    second: Cyan1
+  - first:
+      213: -5439250470798506432
+    second: Cyan2
+  - first:
+      213: 2318618100050532654
+    second: Cyan3
+  - first:
+      213: -7265910483033023067
+    second: Cyan4
+  - first:
+      213: -3952589754175166648
+    second: Cyan5
+  - first:
+      213: 5207149399808120643
+    second: Cyan6
+  - first:
+      213: 2405087326336045971
+    second: Cyan7
+  - first:
+      213: -4960934495386247720
+    second: Cyan8
+  - first:
+      213: -330107517036979199
+    second: Cyan9
+  - first:
+      213: -1721550638595802413
+    second: Donkey Kong Sprites 1_94
+  - first:
+      213: -7834303098525548268
+    second: Donkey Kong Sprites 1_95
+  - first:
+      213: -8212720611649044154
+    second: Donkey Kong Sprites 1_96
+  - first:
+      213: 7719896425839688633
+    second: Donkey Kong Sprites 1_97
+  - first:
+      213: -2655615187489179777
+    second: Donkey Kong Sprites 1_98
+  - first:
+      213: 7711210154412445115
+    second: Donkey Kong Sprites 1_99
+  - first:
+      213: 3961305076017426873
+    second: Donkey Kong Sprites 1_100
+  - first:
+      213: -6437696241662775179
+    second: HammerPowerUp
+  - first:
+      213: -516916096398065524
+    second: Collectible1
+  - first:
+      213: 2703416724461840172
+    second: Collectible2
+  - first:
+      213: 1779800622252866004
+    second: Donkey Kong Sprites 1_104
+  - first:
+      213: -2930022455445355478
+    second: Donkey Kong Sprites 1_105
+  - first:
+      213: 2724580392342183485
+    second: Blue0
+  - first:
+      213: -6293204172412624845
+    second: Blue1
+  - first:
+      213: 4903338425621196670
+    second: Blue2
+  - first:
+      213: 7565718036438126908
+    second: Blue3
+  - first:
+      213: -5921524937075292817
+    second: Blue4
+  - first:
+      213: 8307324197519250862
+    second: Blue5
+  - first:
+      213: -7100649985899815388
+    second: Blue6
+  - first:
+      213: -5679437838589582881
+    second: Blue7
+  - first:
+      213: -1461985701700128186
+    second: Blue8
+  - first:
+      213: -5678354391298732853
+    second: Blue9
+  - first:
+      213: -8423070177305643996
+    second: FireEnemyIdle1
+  - first:
+      213: 7667730803847146784
+    second: FireEnemyMove1
+  - first:
+      213: 1052107983993560205
+    second: FireEnemyIdle2
+  - first:
+      213: 7384083484950728412
+    second: FireEnemyMove2
+  - first:
+      213: -2480262463834751244
+    second: Donkey Kong Sprites 1_120
+  - first:
+      213: 216684788406090923
+    second: Donkey Kong Sprites 1_121
+  - first:
+      213: 3580324213500126756
+    second: Donkey Kong Sprites 1_122
+  - first:
+      213: -5480566734391215199
+    second: Donkey Kong Sprites 1_123
+  - first:
+      213: 1581719460578460673
+    second: DKBarrelStack
+  - first:
+      213: -2532691027128329023
+    second: Donkey Kong Sprites 1_125
+  - first:
+      213: 7260874710375180909
+    second: BarrelRoll1
+  - first:
+      213: 5277233369448485872
+    second: BarrelRoll2
+  - first:
+      213: -8059400623977026169
+    second: BarrelRoll3
+  - first:
+      213: -297206131046071123
+    second: BarrelRoll4
+  - first:
+      213: 8540500664120965046
+    second: Donkey Kong Sprites 1_130
+  - first:
+      213: 2806383315376618288
+    second: Donkey Kong Sprites 1_131
+  - first:
+      213: 1379050348746897853
+    second: Donkey Kong Sprites 1_132
+  - first:
+      213: 6460084693861508899
+    second: Donkey Kong Sprites 1_133
+  - first:
+      213: -23971577233961244
+    second: Donkey Kong Sprites 1_134
+  - first:
+      213: -3109313218841498829
+    second: Donkey Kong Sprites 1_135
+  - first:
+      213: -1669125236365155079
+    second: OilBarrelNoFire
+  - first:
+      213: 4704884500501353055
+    second: Donkey Kong Sprites 1_137
+  - first:
+      213: -8954977587472756744
+    second: Donkey Kong Sprites 1_138
+  - first:
+      213: -7019225858836678702
+    second: Donkey Kong Sprites 1_139
+  - first:
+      213: 6367815927168115350
+    second: Donkey Kong Sprites 1_140
+  - first:
+      213: 3585045699110271075
+    second: Donkey Kong Sprites 1_141
+  - first:
+      213: -9182260026183156077
+    second: Donkey Kong Sprites 1_142
+  - first:
+      213: -1825567388653023628
+    second: Donkey Kong Sprites 1_143
+  - first:
+      213: -5572968318591528474
+    second: Donkey Kong Sprites 1_144
+  - first:
+      213: 183168165192401417
+    second: Donkey Kong Sprites 1_145
+  - first:
+      213: -7939392670977949720
+    second: Donkey Kong Sprites 1_146
+  - first:
+      213: 7780713637693768660
+    second: Donkey Kong Sprites 1_147
+  - first:
+      213: -147530147756997765
+    second: Donkey Kong Sprites 1_148
+  - first:
+      213: 5623953261823457372
+    second: LadderNew
+  - first:
+      213: 1035345824267797313
+    second: Donkey Kong Sprites 1_150
+  - first:
+      213: -4529397557172599991
+    second: Donkey Kong Sprites 1_151
+  - first:
+      213: 7541605761573310484
+    second: Donkey Kong Sprites 1_152
+  - first:
+      213: -4825215406133223897
+    second: NewLevel1
+  - first:
+      213: -3635099269511923691
+    second: Level1Example
+  - first:
+      213: -4594227727856598444
+    second: Level2
+  - first:
+      213: -4849120137148522409
+    second: Level2Example
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MarioIdle
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 440
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18efb5ca6ede3670800000000000000
+      internalID: 8520492095197145118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioRun1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 440
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7d6db99f3854160800000000000000
+      internalID: 7009153503156688833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioRun2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 440
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2a64416933fe650800000000000000
+      internalID: 6264282326373933769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioLadder
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 440
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66231a7d7d9bca200800000000000000
+      internalID: 192733220756861542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 440
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952dcda0da680f850800000000000000
+      internalID: 6408770347517923929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_5
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 441
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f5ad5fc1d74d380800000000000000
+      internalID: -8947388996341047543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 440
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a7b704f14fccfb0800000000000000
+      internalID: -4626054302153344456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 440
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cc6f80b4c387da0800000000000000
+      internalID: -5946937014972134302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 440
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4015ea1c0a00e5d0800000000000000
+      internalID: -3035415101740609459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioJump
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 440
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81e909b70f2bb720800000000000000
+      internalID: 2862933698339791245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 440
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed1b84d8ab3c1930800000000000000
+      internalID: 4115229755816222179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_11
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 440
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba733b0e1c280baf0800000000000000
+      internalID: -382662199116351573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioRunExtra
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 440
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3312136f69f98cf0800000000000000
+      internalID: -249394047543536837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioRunExtra2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 440
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80afe57b9e357e10800000000000000
+      internalID: 2194729230832476298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 440
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b991471d439eef4b0800000000000000
+      internalID: -5404626089736398437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioDeath1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 441
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24f320113ee3d9c0800000000000000
+      internalID: -3903514557508488145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 440
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2dfb6458c97ffd0800000000000000
+      internalID: -2308204187772529977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_17
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 440
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f565d84439eac90800000000000000
+      internalID: -7156620835206832351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioHammerIdle1
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 440
+        width: 12
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee548d4465de7480800000000000000
+      internalID: -8899441186863554838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioHammerIdle2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 440
+        width: 30
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89252a90c96622bc0800000000000000
+      internalID: -3809369514439454056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioHammerRun1
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 440
+        width: 13
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5016fa377ec0640800000000000000
+      internalID: 5047663766425109920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioHammerRun2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 440
+        width: 31
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17eef744a273df260800000000000000
+      internalID: 7132918039502122609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_22
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 440
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a757ce2163f65750800000000000000
+      internalID: 6293485128019040162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_23
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 440
+        width: 32
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9310468819fbf3c0800000000000000
+      internalID: -4324589133432351846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_24
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 440
+        width: 12
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37cdbde00ff70080800000000000000
+      internalID: -9221121332564080838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_25
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 440
+        width: 30
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3736a61567007910800000000000000
+      internalID: 1832973179092875070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_26
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 440
+        width: 13
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b511860843e1dbce0800000000000000
+      internalID: -1387919899318808229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_27
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 440
+        width: 31
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51db7b42a95b32c0800000000000000
+      internalID: -4450865253139623586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_28
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 440
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d02ba7678c606c0800000000000000
+      internalID: -4177431193149370995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_29
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 440
+        width: 32
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9931c219ffcb0e0800000000000000
+      internalID: -2252644714617267795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_30
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 392
+        width: 40
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d66a1fa4d5bfbb0800000000000000
+      internalID: -4901221192999473808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DKGrab
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 392
+        width: 43
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2063261e9fe9fdb50800000000000000
+      internalID: 6620184773323273730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DKIdle
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 392
+        width: 40
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9f7f06cc0172050800000000000000
+      internalID: 5775603517112187304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DKDrop
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 392
+        width: 43
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3fa03eae7b6a510800000000000000
+      internalID: 1560136540389831608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_34
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 392
+        width: 46
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96654e0bef5a1d660800000000000000
+      internalID: 7408885375309207145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_35
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 392
+        width: 46
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f260de72b6120690800000000000000
+      internalID: -7637517062179364105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_36
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 392
+        width: 33
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581ff00ce8674c220800000000000000
+      internalID: 2505257648204542341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_37
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 392
+        width: 33
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18adea8c3be107c30800000000000000
+      internalID: 4355014597182151297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_38
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 392
+        width: 38
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea17181e705941a0800000000000000
+      internalID: -6824835257803007262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_39
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 392
+        width: 43
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efcb8c9e67786d30800000000000000
+      internalID: 4424917950848028642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DKHold
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 392
+        width: 40
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85967296791178490800000000000000
+      internalID: -7744201692238354088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_41
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 392
+        width: 40
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928f7eb3bf9f72a70800000000000000
+      internalID: 8802278854156089385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_42
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 392
+        width: 38
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b78a4cfa4a9c8a0800000000000000
+      internalID: -6284310730193208530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_43
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 392
+        width: 43
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d80d5782250756e0800000000000000
+      internalID: -1849003476154251050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White0
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 377
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc32b730a8b482140800000000000000
+      internalID: 4695085667669713871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White1
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 377
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439b366b9873924d0800000000000000
+      internalID: -3158932599013656268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 377
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42af996bf0027dbf0800000000000000
+      internalID: -299735598336706012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White3
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 377
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e2bd0c5ac9692a0800000000000000
+      internalID: -6731020357339501042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White4
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 377
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d588cf03c08c84760800000000000000
+      internalID: 7442418338916763741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White5
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 377
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f48ee704414cb40800000000000000
+      internalID: 5459510915519500151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White6
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 377
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afc2414fb1f284e0800000000000000
+      internalID: -1980755082353651800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White7
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 377
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566f4fc562e6f7670800000000000000
+      internalID: 8538664529565120101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White8
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 377
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1236f7fe7201d8cd0800000000000000
+      internalID: -2554367649941331167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White9
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 377
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c15e39bca51e180800000000000000
+      internalID: -9087882742650823660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_54
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 355
+        width: 15
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f9a13cfc2270110800000000000000
+      internalID: 1226987699208626029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_55
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 355
+        width: 15
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6df9f6688b836810800000000000000
+      internalID: 1757401697564097903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewPaulineAnims
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 355
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910634118bbdc2d20800000000000000
+      internalID: 3255218214292119577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_57
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 364
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9a887c5cb69fb00800000000000000
+      internalID: 862839300818512330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_58
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 365
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4d19883fef8a260800000000000000
+      internalID: 7109212333726094537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_59
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 366
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4685f3ff2601420800000000000000
+      internalID: 2598685833411716291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_60
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 367
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963999972bbeeba60800000000000000
+      internalID: 7691844365372199785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_61
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 364
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8811ee60c83c1740800000000000000
+      internalID: 5124032875185903757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_62
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 365
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eefb23085d4724a0800000000000000
+      internalID: -6618236086991978780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_63
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 366
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2fbb26faac26450800000000000000
+      internalID: 6080645301528162983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_64
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 367
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bc95504250783b0800000000000000
+      internalID: -5510429966797780119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_65
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 361
+        width: 15
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3412a3faf3fab40800000000000000
+      internalID: 5453647695596045234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 361
+        width: 8
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ffe6e3506248430800000000000000
+      internalID: 3784191390862212949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_67
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 362
+        width: 9
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37aee55e7d94f530800000000000000
+      internalID: 3887905544260724538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collectible3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 361
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0925ee9d4eae39cb0800000000000000
+      internalID: -4858281304372915568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_69
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 365
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d8f5b3575af8ab0800000000000000
+      internalID: -5003598738059457183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_70
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 365
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476c42cdc25fe5b60800000000000000
+      internalID: 7736890782889854580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_71
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 365
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4a5d93c1310a6b0800000000000000
+      internalID: -5287204950582647612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_72
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 365
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f97c9236dfce0d0800000000000000
+      internalID: -3392057816972288121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_73
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 365
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32f4e768d5486330800000000000000
+      internalID: 3704287489270542911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_74
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 365
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb12d8e2194c0aa0800000000000000
+      internalID: -6193495041976951843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_75
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 365
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaf476952f1ae5e0800000000000000
+      internalID: -1879655648175261014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_76
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 365
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f6838fee85c4960800000000000000
+      internalID: 7587537255602351930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_77
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 365
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44686a0d205741670800000000000000
+      internalID: 8508554250960668228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_78
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 365
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c448515bbeea099b0800000000000000
+      internalID: -5075364452667915188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_79
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 365
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0c1b865028b3f60800000000000000
+      internalID: 8015142921578856701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_80
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 365
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06e6a401f61cf360800000000000000
+      internalID: 7204658728306927114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_81
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 365
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705e57fb6691a9fd0800000000000000
+      internalID: -2334525527748647673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_82
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 365
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8230ab26ff4c88cd0800000000000000
+      internalID: -2555576187380694232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioLives
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 364
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186791e2054fcc600800000000000000
+      internalID: 490035084684523137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan0
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 365
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abefdaa735949cd50800000000000000
+      internalID: 6758013338735476410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan1
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 365
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c64ad867527a410800000000000000
+      internalID: 1488199392981970008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan2
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 365
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046cda3e386e384b0800000000000000
+      internalID: -5439250470798506432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan3
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 365
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e299d4f90e26d2020800000000000000
+      internalID: 2318618100050532654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan4
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 365
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad970189ec4a2b90800000000000000
+      internalID: -7265910483033023067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan5
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 365
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8476a8f6f849529c0800000000000000
+      internalID: -3952589754175166648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan6
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 365
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34793fb5ac2834840800000000000000
+      internalID: 5207149399808120643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan7
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 365
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393dd0c3e26906120800000000000000
+      internalID: 2405087326336045971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan8
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 365
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd55805c58372bb0800000000000000
+      internalID: -4960934495386247720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyan9
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 365
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c135556f83b6bf0800000000000000
+      internalID: -330107517036979199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_94
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 362
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da76abb0d2db18e0800000000000000
+      internalID: -1721550638595802413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_95
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 364
+        width: 10
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41184adf6d6f64390800000000000000
+      internalID: -7834303098525548268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_96
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 365
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6414127dd1e860e80800000000000000
+      internalID: -8212720611649044154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_97
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 367
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb7bf4c5e4922b60800000000000000
+      internalID: 7719896425839688633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_98
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 370
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7733999e0c552bd0800000000000000
+      internalID: -2655615187489179777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_99
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 352
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd832a97c8b30b60800000000000000
+      internalID: 7711210154412445115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_100
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 352
+        width: 16
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b178fe8af169f630800000000000000
+      internalID: 3961305076017426873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerPowerUp
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 360
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570b2d76065b8a6a0800000000000000
+      internalID: -6437696241662775179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collectible1
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 361
+        width: 15
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80038f8c8b83d8f0800000000000000
+      internalID: -516916096398065524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Collectible2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 361
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27e5650037748520800000000000000
+      internalID: 2703416724461840172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_104
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 361
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9b6647c3f13b810800000000000000
+      internalID: 1779800622252866004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_105
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 361
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a240347c9187657d0800000000000000
+      internalID: -2930022455445355478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue0
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 353
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3edc8f6e67afc520800000000000000
+      internalID: 2724580392342183485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue1
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 353
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330e654e52c0aa8a0800000000000000
+      internalID: -6293204172412624845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue2
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 353
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7faca0b1582c0440800000000000000
+      internalID: 4903338425621196670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue3
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 353
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3119a02874def860800000000000000
+      internalID: 7565718036438126908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue4
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 353
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65820d717482dda0800000000000000
+      internalID: -5921524937075292817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue5
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 353
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea55423f75b894370800000000000000
+      internalID: 8307324197519250862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue6
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 353
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e1f0c657c657d90800000000000000
+      internalID: -7100649985899815388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue7
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 353
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1a4f270659e21b0800000000000000
+      internalID: -5679437838589582881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue8
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 353
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642b67f00cbf5bbe0800000000000000
+      internalID: -1461985701700128186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue9
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 353
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc0cdd24ce6231b0800000000000000
+      internalID: -5678354391298732853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEnemyIdle1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 312
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424b2831d4e3b1b80800000000000000
+      internalID: -8423070177305643996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEnemyMove1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 312
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d21ac6a80496a60800000000000000
+      internalID: 7667730803847146784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEnemyIdle2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 312
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cd94b13a6d99e00800000000000000
+      internalID: 1052107983993560205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireEnemyMove2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 312
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde01589ec8897660800000000000000
+      internalID: 7384083484950728412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_120
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 312
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fef46d1e66549dd0800000000000000
+      internalID: -2480262463834751244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_121
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 312
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacfc21caa1d10300800000000000000
+      internalID: 216684788406090923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_122
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 312
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426a76e17eddfa130800000000000000
+      internalID: 3580324213500126756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 312
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abf9c4a79d11f3b0800000000000000
+      internalID: -5480566734391215199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DKBarrelStack
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 312
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1040a16187563f510800000000000000
+      internalID: 1581719460578460673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_125
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 312
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc523afde21adcd0800000000000000
+      internalID: -2532691027128329023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelRoll1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 315
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6aa78e441fc3c460800000000000000
+      internalID: 7260874710375180909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelRoll2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 315
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f390de1acf7c3940800000000000000
+      internalID: 5277233369448485872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelRoll3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 315
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78da94145d1472090800000000000000
+      internalID: -8059400623977026169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BarrelRoll4
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 315
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da44ee5399c10ebf0800000000000000
+      internalID: -297206131046071123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_130
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 315
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7fae0ca14f58670800000000000000
+      internalID: 8540500664120965046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_131
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 315
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b3b98a1c642f620800000000000000
+      internalID: 2806383315376618288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_132
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 312
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9ff645cfe532310800000000000000
+      internalID: 1379050348746897853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_133
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 312
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327ad845dc4d6a950800000000000000
+      internalID: 6460084693861508899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_134
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 312
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee834e3af5daaff0800000000000000
+      internalID: -23971577233961244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_135
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 312
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ba68fe91089d4d0800000000000000
+      internalID: -3109313218841498829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OilBarrelNoFire
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 312
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4a0d0e07316d8e0800000000000000
+      internalID: -1669125236365155079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_137
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 312
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52df91968b1b4140800000000000000
+      internalID: 4704884500501353055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_138
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 312
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff0a17645789b380800000000000000
+      internalID: -8954977587472756744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_139
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 312
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7bdc55543b69e90800000000000000
+      internalID: -7019225858836678702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_140
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 312
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6922eedf8d60f5850800000000000000
+      internalID: 6367815927168115350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_141
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 315
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3687207a114a0c130800000000000000
+      internalID: 3585045699110271075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_142
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 315
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e7518e72f029080800000000000000
+      internalID: -9182260026183156077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_143
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 315
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e8ccdd1284aa6e0800000000000000
+      internalID: -1825567388653023628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_144
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 315
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e198d157d6d8a2b0800000000000000
+      internalID: -5572968318591528474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_145
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 315
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902047cc97eba8200800000000000000
+      internalID: 183168165192401417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_146
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 315
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eff4023e6c91d190800000000000000
+      internalID: -7939392670977949720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_147
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 316
+        width: 16
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d346c954d5aafb60800000000000000
+      internalID: 7780713637693768660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_148
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 312
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73884dbc1ed3fdf0800000000000000
+      internalID: -147530147756997765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LadderNew
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 312
+        width: 10
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58f264d1bb4c0e40800000000000000
+      internalID: 5623953261823457372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_150
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 315
+        width: 11
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1438a2baa894e5e00800000000000000
+      internalID: 1035345824267797313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_151
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 315
+        width: 11
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94384366be85421c0800000000000000
+      internalID: -4529397557172599991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Donkey Kong Sprites 1_152
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 315
+        width: 11
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410dd96ab7a29a860800000000000000
+      internalID: 7541605761573310484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLevel1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 224
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72edfa83724690db0800000000000000
+      internalID: -4825215406133223897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1Example
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 224
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518b57559788d8dc0800000000000000
+      internalID: -3635099269511923691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 48
+        width: 224
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4528bd709360e30c0800000000000000
+      internalID: -4594227727856598444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Example
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 48
+        width: 224
+        height: 256
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750a1105de674bcb0800000000000000
+      internalID: -4849120137148522409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
